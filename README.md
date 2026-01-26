@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # RT Assignment 2: Mobile Robot Safety and Teleoperation
 ### (ROS2 – Gazebo Simulation)
 
